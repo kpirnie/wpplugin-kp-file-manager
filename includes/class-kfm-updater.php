@@ -30,7 +30,7 @@ if (! class_exists('KFM_Updater')) {
     {
 
         /** GitHub owner/repo slug — adjust if the repo name differs. */
-        private const GH_REPO   = 'kpirnie/wppluggin-kp-file-manager';
+        private const GH_REPO   = 'kpirnie/wpplugin-kp-file-manager';
 
         /** WordPress.org-style plugin basename (folder/main-file.php). */
         private const PLUGIN_BASENAME = 'kp-file-manager/kp-file-manager.php';
